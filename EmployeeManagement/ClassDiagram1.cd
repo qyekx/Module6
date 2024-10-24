@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmployeeManagement.ViewModels.EmployeeViewModel">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Class Name="EmployeeManagement.ViewModels.EmployeeViewModel.RelayCommand" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ViewModels\EmployeeViewModel.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="EmployeeManagement.ViewModels.EmployeeViewModel.RelayCommand&lt;T&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ViewModels\EmployeeViewModel.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAICCABAAAAAAEAACABAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ViewModels\EmployeeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeManagement.Services.FirebaseService">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAIAgAAAAAAAAAAAAAAEAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Services\FirebaseService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeManagement.Models.Employee">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAGAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
